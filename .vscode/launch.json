@@ -15,7 +15,7 @@
             "request": "launch",
             "type": "dart",
             "args": [
-                "--dart-define=newsApiKey=YOUR_API_KEY_HERE"
+                "--dart-define=newsApiKey=6250c48236e44645b2dc1402dd254f24"
             ],
         }
     ]
